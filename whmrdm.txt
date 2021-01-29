@@ -1,0 +1,7 @@
+jc main whm;
+wait 1;
+jc sub rdm;
+wait 1;
+po swap whm;
+wait 30;
+gs equip idle.Town;

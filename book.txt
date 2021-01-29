@@ -1,0 +1,10 @@
+alias one input /item "Mikhe's Memo" <me>; wait 3;
+alias five one; one; one; one; one;
+alias twenty five; five; five; five;
+alias hundred twenty; twenty; twenty; twenty; twenty;
+alias fivehundred hundred; hundred; hundred; hundred; hundred;
+alias thousand fivehundred; fivehundred;
+
+thousand;
+thousand;
+thousand;

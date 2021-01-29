@@ -1,0 +1,4 @@
+lua load ku;
+wait 1;
+ku add selfma Utsusemi:_Ni 339 445 all;
+ku add selfma Utsusemi:_Ichi 338 445 all;

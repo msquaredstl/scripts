@@ -1,0 +1,7 @@
+jc main geo;
+wait 1;
+jc sub rdm;
+wait 1;
+po swap geo;
+wait 30;
+gs equip idle.Town;

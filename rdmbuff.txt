@@ -1,0 +1,17 @@
+input /ja "composure" <me>; 
+wait 1.5; 
+input /ma "haste II" <me>; 
+wait 5; 
+input /ma "refresh III" <me>; 
+wait 5; 
+input /ma "gain-STR" <me>; 
+wait 5; 
+input /ma "phalanx II" <me>;
+wait 5;
+input /ma "temper II" <me>; 
+wait 5; 
+input /ma "Enthunder II" <me>;
+wait 5;
+input /ma "Stoneskin" <me>;
+//wait 5;
+//input /ma "Utsusemi: Ichi" <me>;

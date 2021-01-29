@@ -1,0 +1,5 @@
+scanzone scan 00C8;
+wait 2;
+scanzone scan 00DB;
+wait 2;
+scanzone scan 00BF;

@@ -1,0 +1,7 @@
+jc main thf;
+wait 1;
+jc sub nin;
+wait 1;
+po swap thf;
+wait 30;
+gs equip idle.Town;

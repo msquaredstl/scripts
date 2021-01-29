@@ -1,0 +1,7 @@
+input /ma "Refresh II" Apururu; 
+wait 5; 
+input /ma "Flurry II" Tenzen; 
+wait 5; 
+input /ma "Refresh II" Shantotto; 
+wait 5; 
+input /ma "Flurry II" SemihLafihna; 
